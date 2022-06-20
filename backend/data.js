@@ -1,7 +1,7 @@
 const data = {
     products: [
         {
-            _id:"1",
+            // _id:"1",
             name: 'Women',
             slug: 'Women',
             category: 'Daniel Willington',
@@ -14,7 +14,7 @@ const data = {
             description: 'High quality'
         },
         {
-            _id:"2",
+            // _id:"2",
             name: 'Watch',
             slug: 'Watch',
             category: 'Watches',
@@ -27,7 +27,7 @@ const data = {
             description: 'High quality'
         },
         {
-            _id:"3",
+            // _id:"3",
             name: 'watch-women',
             slug: 'watch-women',
             category: 'Watches',
@@ -40,7 +40,7 @@ const data = {
             description: 'High quality'
         },
         {
-            _id:"4",
+            // _id:"4",
             name: 'Women Watch',
             slug: 'Women Watch',
             category: 'Daniel Willington',
