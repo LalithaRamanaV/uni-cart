@@ -1,4 +1,4 @@
-import { useEffect, useReducer, useState} from 'react'
+import { useEffect, useReducer} from 'react'
 import { Link } from 'react-router-dom'
 import axios from "axios"
 import logger from "use-reducer-logger"
@@ -36,14 +36,18 @@ const HomeScreen = () => {
       }
       // setProducts(result.data);
     };
-
     fetchData();
   }, []);
   return (
     <div>
         <h1>Featured Products</h1>
         <div className="products">
-        {products.map(product => (
+           {loading ? (
+           <div>Loading...</div>
+           ) : error ? (
+             <div>{error}</div>
+           ) :
+           products.map((product)=> (
             <div className="product"key={product.slug}>
             <Link to={`/product/${product.slug}`}>
             <img src={product.image} alt={product.name}/>
