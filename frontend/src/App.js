@@ -10,6 +10,7 @@ import {Store} from "./Store";
 import Nav from "react-bootstrap/Nav";
 import Badge from "react-bootstrap/Badge"
 import CartScreen from "./screens/CartScreen";
+import SigninScreen from "./screens/SigninScreen";
 
 function App() {
 
@@ -44,6 +45,7 @@ function App() {
         <Routes>
           <Route path="/product/:slug" element={<ProductScreen/>}/>
           <Route path="/cart" element={<CartScreen/>}/>
+          <Route path="/signin" element={<SigninScreen/>}/>
           <Route path="/" element={<HomeScreen/>}/>
         </Routes>
         </Container>
