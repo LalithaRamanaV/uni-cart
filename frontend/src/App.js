@@ -25,6 +25,7 @@ import { getError } from './utils';
 import axios from 'axios';
 import SearchBox from './components/SearchBox';
 import SearchScreen from './screens/SearchScreen';
+import Announcement from './components/Announcement';
 
 function App() {
 
@@ -113,6 +114,7 @@ function App() {
               </Container>
               </Navbar>
               </header>
+              <Announcement/>
               <div
           className={
             sidebarIsOpen
