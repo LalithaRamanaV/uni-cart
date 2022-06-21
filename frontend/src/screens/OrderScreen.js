@@ -120,7 +120,7 @@ export default function OrderScreen() {
           type: 'resetOptions',
           value: {
             'client-id': clientId,
-            currency: 'USD',
+            currency: 'INR',
           },
         });
         paypalDispatch({ type: 'setLoadingStatus', value: 'pending' });
