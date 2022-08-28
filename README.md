@@ -1,6 +1,8 @@
 # uni-cart
  MERN Stack Ecommerce application for the variety of watches
 
+ # (DEMO)[<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/13a6515f6e9c42d1b5f98d43fd76f272" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>]
+
  # Technologies Used
  * MongoDB
  * Express
@@ -38,3 +40,5 @@
  * User profile update password
  * For admin check the orders
 
+# Author
+* Lalitha Vadavalli
