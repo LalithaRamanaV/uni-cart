@@ -13,18 +13,6 @@ const data = {
             description: 'High quality'
         },
         {
-            name: 'Watch',
-            slug: 'Watch',
-            category: 'Watches',
-            image:'/images/image1.png',
-            price: 3000,
-            countInStock: 0,
-            brand: 'Nike',
-            rating: 4.8,
-            numReviews: 10,
-            description: 'High quality'
-        },
-        {
             name: 'watch-women',
             slug: 'watch-women',
             category: 'Watches',
@@ -47,7 +35,19 @@ const data = {
             rating: 4.8,
             numReviews: 10,
             description: 'High quality'
-        }
+        },
+        {
+            name: 'Watch',
+            slug: 'Watch',
+            category: 'Watches',
+            image:'/images/image1.png',
+            price: 5000,
+            countInStock: 0,
+            brand: 'Nike',
+            rating: 4.8,
+            numReviews: 10,
+            description: 'High quality'
+        },
     ]
 }
 export default data;
