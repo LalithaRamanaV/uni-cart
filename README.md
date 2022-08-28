@@ -1,9 +1,6 @@
 # uni-cart
  MERN Stack Ecommerce application for the variety of watches
 
- # Demo
- ![Demo](https://www.loom.com/embed/13a6515f6e9c42d1b5f98d43fd76f272 "@embed")
-
  # Technologies Used
  * MongoDB
  * Express
@@ -26,6 +23,7 @@
  * nodemon
 
  # Features
+ * Home page
  * Login/Sign-in with username and password
  * Signup the new user with the name,password and email
  * Add to cart functionality
