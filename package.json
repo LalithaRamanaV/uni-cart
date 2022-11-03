@@ -4,7 +4,7 @@
     "description": "Unicart is an ecommerce application for watches",
     "main": "index.js",
     "scripts": {
-      "build": "cd backend && npm install  && cd ../frontend && npm install && npm run build",
+      "build":"cd backend && npm install && cd .. && cd frontend && npm install &&npm run build",
       "start": "node backend/server.js",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -13,7 +13,6 @@
       "url": "git+https://github.com/LalithaRamanaV/uni-cart.git"
     },
     "author": "",
-    "license": "ISC",
     "bugs": {
       "url": "https://github.com/LalithaRamanaV/uni-cart/issues"
     },
