@@ -1,5 +1,13 @@
 # uni-cart
  MERN Stack Ecommerce application for the variety of watches
+ 
+ # Demo image
+ ![unicart](https://user-images.githubusercontent.com/58090261/199890053-f414efba-07a2-4360-9eaf-7fa56376df82.png)
+
+ 
+ # Demo 
+ Please check the demo of this application below
+ (Demo)[https://unicart-wsw8.onrender.com/]
 
  # Technologies Used
  * MongoDB
