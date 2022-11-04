@@ -9,7 +9,7 @@
  
  Please check the demo of this application below
  
- !(Demo)[https://unicart-wsw8.onrender.com/]
+ ![Demo](https://unicart-wsw8.onrender.com/) 
 
  # Technologies Used
  * MongoDB
@@ -34,7 +34,8 @@
 
  # Features
  * Home page
- * Login/Sign-in with username and password
+ * Login/Sign-in with username and password 
+ * Guest login 
  * Signup the new user with the name,password and email
  * Add to cart functionality
  * Categories for products 
