@@ -48,7 +48,7 @@ const HomeScreen = () => {
       <Helmet>
         <title>Unicart</title>
       </Helmet>
-        <h1>Featured Products</h1>
+        <h1>Products</h1>
         <div className="products">
            {loading ? (
            <LoadingBox/>
