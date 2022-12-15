@@ -16,7 +16,7 @@ font-weight:500;
 const Announcement = () => {
   return (
     <Container>
-     Great Deal! Free shipping on first orders and over 1000Rs
+     Great Deal! Free shipping on first order
     </Container>
   )
 }

@@ -27,6 +27,7 @@ import SearchBox from './components/SearchBox';
 import SearchScreen from './screens/SearchScreen';
 import Announcement from './components/Announcement';
 
+
 function App() {
 
   const { state, dispatch: ctxDispatch } = useContext(Store);
@@ -114,7 +115,7 @@ function App() {
               </Container>
               </Navbar>
               </header>
-              <Announcement/>
+              {/* <Announcement/> */}
               <div
           className={
             sidebarIsOpen
@@ -138,6 +139,7 @@ function App() {
             ))}
           </Nav>
         </div>
+        <Announcement/>
         <main>
           <Container className="mt-3">
             <Routes>
