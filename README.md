@@ -33,15 +33,15 @@
  * nodemon
 # Features for buyers
 * Category
+* Guest Login/Checkout
 * Registration
 * Search
 * Product Listing and Detail
 * Cart
 * Checkout
-* Guest Login/Checkout
 * My account
 
- # Features
+ <!-- # Features
  * Home page
  * Login/Sign-in with username and password 
  * Guest login 
@@ -57,7 +57,7 @@
  * Checkout with shipping address
  * Paypal and stripe integration
  * User profile update password
- * For admin check the orders
+ * For admin check the orders -->
 
 # Author
 * Lalitha Vadavalli
