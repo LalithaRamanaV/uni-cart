@@ -31,6 +31,15 @@
  * jsonwebtoken
  * mongoose
  * nodemon
+# Features for buyers
+* Category
+* Registration
+* Search
+* Product Listing and Detail
+* Cart
+* Checkout
+* Guest Login/Checkout
+* My account
 
  # Features
  * Home page
