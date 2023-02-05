@@ -34,12 +34,14 @@
 # Features for buyers
 * Category
 * Guest Login/Checkout
+  For first-time users, who are looking forward to easy and quick ways to purchase, a guest checkout feature is most useful.
 * Registration
 * Search
 * Product Listing and Detail
 * Cart
 * Checkout
 * My account
+  Users can check their past orders, settings, cart
 
  <!-- # Features
  * Home page
